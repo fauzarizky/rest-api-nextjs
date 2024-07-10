@@ -18,7 +18,7 @@ This project is a REST API built using Next.js, designed to provide a robust and
 ## Features
 
 - RESTful API design.
-- Server-side rendering and API routes with Next.js.
+- API routes with Next.js.
 - CRUD operations for managing resources.
 - Easy to set up and deploy.
 
